@@ -56,7 +56,7 @@ A curated knowledge base for datasets, tools, code, and resources in **environme
 ---
 
 ## Vim Commands:
-- **[:%norm A*]** - Append * at end of every line.
+- **[":%norm A*"]** - Append * at end of every line.
 
 ## 🧰 General Tools & Libraries
 
