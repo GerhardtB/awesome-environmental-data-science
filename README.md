@@ -4,59 +4,59 @@ A curated knowledge base for datasets, tools, code, and resources in **environme
 
 ---
 
-## 🏭 Air Quality
+## Air Quality
 
-### 📦 Data Repositories
+### Data Repositories
 - **[OpenAQ](https://openaq.org/)** – Aggregated global air quality measurements.
 - **[SAAQIS](http://saaqis.environment.gov.za/)** – South Africa's national air quality monitoring portal.
 
-### 💻 Code
+### Code
 
-### 🚧 Projects
+### Projects
 
 ---
 
-## 🌧️ Weather Radar
+## Weather Radar
 
-### 📦 Data Repositories
+### Data Repositories
 
-### 💻 Code
+### Code
 - **[Py-ART](https://github.com/ARM-DOE/pyart)** – Radar toolkit for processing and visualising radar data.
 - **[wradlib](https://github.com/wradlib/wradlib)** – Python library for weather radar data processing.
 
-### 🚧 Projects
+### Projects
 
 ---
 
-## 🌡️ Climate
+## Climate
 
-### 📦 Data Repositories
+### Data Repositories
 - **[Dynamical Datasets](https://dynamical.org/)** – Easy access to NOAA GFS, NOAA GEFS with Xarrray & Zarr.
 - 
 
-### 💻 Code
+### Code
 
 
-### 🚧 Projects
+### Projects
 
 ---
 
-## 🛰️ Remote Sensing
+## Remote Sensing
 
 
-### 📦 Data Repositories
+### Data Repositories
 - **[MODIS MOD09GA (Aqua & Terra Surface Reflectance Daily L2G)](https://stac.terrabyte.lrz.de/browser/collections/modis-09ga-061)** – Daily gridded surface reflectance product at 500 m resolution (MOD09GA v6.1), available via STAC API for easy access and integration.
 
 - **[MODIS MOD09GQ (Aqua & Terra Surface Reflectance Daily)](https://stac.terrabyte.lrz.de/browser/collections/modis-09gq-061)** – Daily surface reflectance product at 250 m resolution (MOD09GQ v6.1), also accessible via STAC API.
 - 
-### 💻 Code
+### Code
 
-### 🚧 Projects
+### Projects
 
 ---
 
 ## Vim Commands:
-- **[":%norm A*"]** - Append * at end of every line.
+- ":%norm A*"  - Append * at end of every line.
 
 ## 🧰 General Tools & Libraries
 
