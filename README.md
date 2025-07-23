@@ -1,4 +1,4 @@
-#  🌍 awesome-environmental-data-science
+#  environmental-data-science
 
 A curated knowledge base for datasets, tools, code, and resources in **environmental data science**, organised by domain. Covers air quality, weather radar, climate science, and remote sensing.
 
@@ -54,6 +54,9 @@ A curated knowledge base for datasets, tools, code, and resources in **environme
 ### 🚧 Projects
 
 ---
+
+## Vim Commands:
+- **[:%norm A*]** - Append * at end of every line.
 
 ## 🧰 General Tools & Libraries
 
